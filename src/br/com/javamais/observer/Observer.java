@@ -1,8 +1,8 @@
  
 package br.com.javamais.observer;
 
-import br.com.javamais.Implements.Assinante;
-import br.com.javamais.Implements.Revista;
+import br.com.javamais.implementations.Assinante;
+import br.com.javamais.implementations.Revista;
 
 /*
  * @author javamais.com.br

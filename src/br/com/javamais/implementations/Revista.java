@@ -1,4 +1,4 @@
-package br.com.javamais.Implements;
+package br.com.javamais.implementations;
 
 import br.com.javamais.interfaces.IAssinante;
 import br.com.javamais.interfaces.IRevista;
